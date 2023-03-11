@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df9cf6d8-b648-466b-afc9-d36a56c5081a" name="Changes" comment="add test Negative  Summ">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TreeTest.java" afterDir="false" />
+    <list default="true" id="df9cf6d8-b648-466b-afc9-d36a56c5081a" name="Changes" comment="add Tree and test Tree">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Discount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DiscountTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TreeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TreeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,49 +63,52 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TreeTest.garlandLength">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="UnitTests" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumTest.sumOfTwoNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.DiscountTest.getDiscountValue5">
+    <configuration name="DiscountTest.getDiscountValue1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UnitTests" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SumTest" />
-      <option name="METHOD_NAME" value="sumOfTwoNumbers" />
+      <option name="MAIN_CLASS_NAME" value="DiscountTest" />
+      <option name="METHOD_NAME" value="getDiscountValue1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumTest.sumOfTwoNumbersNegative" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DiscountTest.getDiscountValue2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UnitTests" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SumTest" />
-      <option name="METHOD_NAME" value="sumOfTwoNumbersNegative" />
+      <option name="MAIN_CLASS_NAME" value="DiscountTest" />
+      <option name="METHOD_NAME" value="getDiscountValue2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumTest.sumOfTwoNumbersPositive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DiscountTest.getDiscountValue3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UnitTests" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SumTest" />
-      <option name="METHOD_NAME" value="sumOfTwoNumbersPositive(java.lang.Integer,java.lang.Integer,java.lang.Integer)" />
+      <option name="MAIN_CLASS_NAME" value="DiscountTest" />
+      <option name="METHOD_NAME" value="getDiscountValue3" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeTest.garlandLength" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DiscountTest.getDiscountValue4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UnitTests" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TreeTest" />
-      <option name="METHOD_NAME" value="garlandLength" />
+      <option name="MAIN_CLASS_NAME" value="DiscountTest" />
+      <option name="METHOD_NAME" value="getDiscountValue4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscountTest.getDiscountValue5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DiscountTest" />
+      <option name="METHOD_NAME" value="getDiscountValue5" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -112,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TreeTest.garlandLength" />
-        <item itemvalue="JUnit.SumTest.sumOfTwoNumbersPositive" />
-        <item itemvalue="JUnit.SumTest.sumOfTwoNumbersNegative" />
-        <item itemvalue="JUnit.SumTest.sumOfTwoNumbers" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.DiscountTest.getDiscountValue5" />
+        <item itemvalue="JUnit.DiscountTest.getDiscountValue4" />
+        <item itemvalue="JUnit.DiscountTest.getDiscountValue3" />
+        <item itemvalue="JUnit.DiscountTest.getDiscountValue2" />
+        <item itemvalue="JUnit.DiscountTest.getDiscountValue1" />
       </list>
     </recent_temporary>
   </component>
@@ -150,14 +154,22 @@
       <option name="project" value="LOCAL" />
       <updated>1678538824575</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add Tree and test Tree">
+      <created>1678554241735</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678554241735</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add a+b = sum on console(first step)" />
     <MESSAGE value="add test Summ" />
     <MESSAGE value="add test Negative  Summ" />
-    <option name="LAST_COMMIT_MESSAGE" value="add test Negative  Summ" />
+    <MESSAGE value="add Tree and test Tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Tree and test Tree" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

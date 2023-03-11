@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df9cf6d8-b648-466b-afc9-d36a56c5081a" name="Changes" comment="add test Summ">
+    <list default="true" id="df9cf6d8-b648-466b-afc9-d36a56c5081a" name="Changes" comment="add test Negative  Summ">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TreeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/SumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SumTest.java" afterDir="false" />
     </list>
@@ -49,7 +51,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "settings.editor.selected.configurable": "preferences.keymap"
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -60,7 +62,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SumTest.sumOfTwoNumbersNegative">
+  <component name="RunManager" selected="JUnit.TreeTest.garlandLength">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="UnitTests" />
@@ -88,8 +90,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SumTest.sumOfTwoNumbersPositive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SumTest" />
+      <option name="METHOD_NAME" value="sumOfTwoNumbersPositive(java.lang.Integer,java.lang.Integer,java.lang.Integer)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeTest.garlandLength" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TreeTest" />
+      <option name="METHOD_NAME" value="garlandLength" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TreeTest.garlandLength" />
+        <item itemvalue="JUnit.SumTest.sumOfTwoNumbersPositive" />
         <item itemvalue="JUnit.SumTest.sumOfTwoNumbersNegative" />
         <item itemvalue="JUnit.SumTest.sumOfTwoNumbers" />
         <item itemvalue="Application.Main" />
@@ -119,12 +143,24 @@
       <option name="project" value="LOCAL" />
       <updated>1678538468987</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add test Negative  Summ">
+      <created>1678538824575</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678538824575</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add a+b = sum on console(first step)" />
     <MESSAGE value="add test Summ" />
-    <option name="LAST_COMMIT_MESSAGE" value="add test Summ" />
+    <MESSAGE value="add test Negative  Summ" />
+    <option name="LAST_COMMIT_MESSAGE" value="add test Negative  Summ" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
